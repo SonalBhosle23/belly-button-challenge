@@ -48,4 +48,4 @@ References:
 -In class activities
 -ChatGPT to review the code
 - youtube https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW
--BCS Support - Veerance and Tumisang assisted in initial code and running of the dashboard
+-BCS Support - Veerance for the initial code and Tumisang assisted in running of the dashboard in HTML.
